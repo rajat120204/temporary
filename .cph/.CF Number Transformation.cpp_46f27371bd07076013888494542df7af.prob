@@ -1,0 +1,1 @@
+{"name":"Local: CF Number Transformation","url":"e:\\Codes\\CF Number Transformation.cpp","tests":[{"id":1651585216606,"input":"3\n3 75\n100 100\n42 13","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codes\\CF Number Transformation.cpp","group":"local","local":true}

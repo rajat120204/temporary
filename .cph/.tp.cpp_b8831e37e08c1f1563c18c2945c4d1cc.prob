@@ -1,0 +1,1 @@
+{"name":"Local: tp","url":"c:\\Codes\\tp.cpp","tests":[{"id":1718212269506,"input":"5","output":"25"},{"id":1718212322144,"input":"9","output":"81"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\tp.cpp","group":"local","local":true}

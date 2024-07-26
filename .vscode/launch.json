@@ -1,0 +1,121 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch hello",
+      "request": "launch",
+      "mainClass": "fw.hello",
+      "projectName": "Codes_4ff26a0c"
+    },
+    {
+      "type": "java",
+      "name": "Launch SPE22Q3c",
+      "request": "launch",
+      "mainClass": "SPE22Q3c",
+      "projectName": "Codes_4ff26a0c"
+    },
+    {
+      "type": "java",
+      "name": "Launch SPE22Q3b",
+      "request": "launch",
+      "mainClass": "SPE22Q3b",
+      "projectName": "Codes_4ff26a0c"
+    },
+    {
+      "type": "java",
+      "name": "Launch filehandling",
+      "request": "launch",
+      "mainClass": "filehandling",
+      "projectName": "Codes_4ff26a0c"
+    },
+    {
+      "type": "java",
+      "name": "Launch SPE22Q3a",
+      "request": "launch",
+      "mainClass": "SPE22Q3a",
+      "projectName": "Codes_4ff26a0c"
+    },
+    {
+      "type": "java",
+      "name": "Launch javapackage",
+      "request": "launch",
+      "mainClass": "javapackage",
+      "projectName": "Codes_4ff26a0c"
+    },
+    {
+      "type": "java",
+      "name": "Launch javapaper",
+      "request": "launch",
+      "mainClass": "javapaper",
+      "projectName": "Codes_4ff26a0c"
+    },
+    {
+      "type": "java",
+      "name": "Launch p10",
+      "request": "launch",
+      "mainClass": "p10",
+      "projectName": "Codes_4ff26a0c"
+    },
+    {
+      "name": "(gdb) Attach",
+      "type": "cppdbg",
+      "request": "attach",
+      "program": "enter program name, for example ${workspaceFolder}/a.exe",
+      "MIMode": "gdb",
+      "miDebuggerPath": "/path/to/gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        },
+        {
+          "description": "Set Disassembly Flavor to Intel",
+          "text": "-gdb-set disassembly-flavor intel",
+          "ignoreFailures": true
+        }
+      ]
+    },
+    {
+      "type": "java",
+      "name": "Launch Practical_3a",
+      "request": "launch",
+      "mainClass": "Practical_3a",
+      "projectName": "Codes_4ff26a0c"
+    },
+    {
+      "type": "java",
+      "name": "Launch Practical1D",
+      "request": "launch",
+      "mainClass": "Practical1D",
+      "projectName": "Codes_4ff26a0c"
+    },
+    {
+      "type": "java",
+      "name": "Launch Practical1C",
+      "request": "launch",
+      "mainClass": "Practical1C",
+      "projectName": "Codes_4ff26a0c"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Codes",
+      "program": "c:/Codes/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

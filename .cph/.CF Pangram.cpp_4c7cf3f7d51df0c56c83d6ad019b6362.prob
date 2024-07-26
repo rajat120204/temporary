@@ -1,0 +1,1 @@
+{"name":"Local: CF Pangram","url":"e:\\Codes\\CF Pangram.cpp","tests":[{"id":1654802876685,"input":"35\nTheQuickBrownFoxJumpsOverTheLazyDog\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codes\\CF Pangram.cpp","group":"local","local":true}

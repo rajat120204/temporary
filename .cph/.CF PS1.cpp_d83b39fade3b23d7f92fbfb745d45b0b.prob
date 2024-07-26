@@ -1,0 +1,1 @@
+{"name":"Local: CF PS1","url":"e:\\Codes\\CF PS1.cpp","tests":[{"id":1648800127783,"input":"0 0 0 0 0\n0 0 0 0 0\n0 1 0 0 0\n0 0 0 0 0\n0 0 0 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codes\\CF PS1.cpp","group":"local","local":true}

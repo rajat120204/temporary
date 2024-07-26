@@ -1,0 +1,1 @@
+{"name":"Local: CC Test Averages","url":"e:\\Codes\\CC Test Averages.cpp","tests":[{"id":1661179437391,"input":"4\n23 47 52\n28 36 80\n0 100 0\n35 35 35","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codes\\CC Test Averages.cpp","group":"local","local":true}
